@@ -128,6 +128,7 @@
                 <dependency>
                     <groupId>com.oracle.database.r2dbc</groupId>
                     <artifactId>oracle-r2dbc</artifactId>
+                    <scope>runtime</scope>
                 </dependency>
                 <dependency>
                     <groupId>com.oracle.database.jdbc</groupId>
